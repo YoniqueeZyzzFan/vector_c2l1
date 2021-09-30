@@ -12,6 +12,10 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+*.vcxproj
+*.vcxproj.*
+*.sln
+vector_Course2Lab1.sln
 
 # Build results
 [Dd]ebug/
